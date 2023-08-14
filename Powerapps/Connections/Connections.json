@@ -1,0 +1,63 @@
+{
+  "277116e1-a7c5-4a87-9603-034742df44f9": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "Mantık akışları",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1645/1.0.1645.3345/logicflows/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_logicflows",
+      "parameterHints": {
+        "e0c50811-5d34-4ec9-8142-a9934a35fa3a": {
+          "value": "shared_translatorv2"
+        },
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "94b10e3e-2ad9-4ce6-ab46-49737f50f013"
+        }
+      },
+      "parameterHintsV2": {
+        "shared_translatorv2": {
+          "value": "e0c50811-5d34-4ec9-8142-a9934a35fa3a"
+        },
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "94b10e3e-2ad9-4ce6-ab46-49737f50f013"
+        }
+      }
+    },
+    "datasets": {},
+    "dataSources": [
+      "PowerApp->Metniçevir"
+    ],
+    "dependencies": {
+      "shared_translatorv2": "e0c50811-5d34-4ec9-8142-a9934a35fa3a"
+    },
+    "dependents": [],
+    "id": "277116e1-a7c5-4a87-9603-034742df44f9"
+  },
+  "e0c50811-5d34-4ec9-8142-a9934a35fa3a": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "Microsoft Translator V2",
+      "executionRestrictions": {
+        "apiId": "unknown",
+        "appVer": "3.23075.14",
+        "modifiedOn": "2023-08-14 22:03:54",
+        "policy": "{\"type\":\"unused\"}",
+        "version": 1
+      },
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1623/1.0.1623.3210/translatorv2/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_translatorv2",
+      "parameterHints": {},
+      "parameterHintsV2": {},
+      "runtimePolicyName": "1353e2ce-408b-43d1-b04f-0a2bc2c1c4ae",
+      "sharedConnectionId": "/providers/microsoft.powerapps/apis/shared_translatorv2/connections/3a0bda8f544843609a584b9a22fdd75e"
+    },
+    "datasets": {},
+    "dataSources": [],
+    "dependencies": {},
+    "dependents": [
+      "277116e1-a7c5-4a87-9603-034742df44f9"
+    ],
+    "id": "e0c50811-5d34-4ec9-8142-a9934a35fa3a"
+  }
+}

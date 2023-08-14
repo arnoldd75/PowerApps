@@ -1,0 +1,503 @@
+"Screen1 As screen.'tabletAutoLayout_Sidebar_ver1.0'":
+
+    TextInputBaşlık As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: ="SAĞLIK SERVİSİ BEKLEME EKRANI"
+        Fill: =RGBA(120, 224, 250, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =49
+        TabIndex: =
+        Width: =1355
+        X: =4
+        Y: =8
+        ZIndex: =1
+
+    TextInput1_1 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: =""
+        Fill: =RGBA(232, 244, 217, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =585
+        TabIndex: =
+        Width: =365
+        X: =813
+        Y: =148
+        ZIndex: =2
+
+    TextInput1_3 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: |-
+            ="SIRA
+             NO"
+        Fill: =RGBA(255, 208, 66, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =49
+        TabIndex: =
+        Width: =94
+        X: =602
+        Y: =549
+        ZIndex: =3
+
+    TextInput1_4 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: ="Oyak Renault Poliklinik Doktoru"
+        Fill: =RGBA(255, 208, 66, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =190
+        PaddingBottom: =170
+        TabIndex: =
+        Width: =379
+        X: =4
+        Y: =104
+        ZIndex: =4
+
+    TextInput1_5 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: ="1"
+        Fill: =RGBA(255, 208, 66, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        TabIndex: =
+        Width: =95
+        X: =4
+        Y: =296
+        ZIndex: =5
+
+    TextInput1_6 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: ="2"
+        Fill: =RGBA(255, 208, 66, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        TabIndex: =
+        Width: =95
+        X: =4
+        Y: =345
+        ZIndex: =6
+
+    TextInput1_7 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: ="3"
+        Fill: =RGBA(255, 208, 66, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        TabIndex: =
+        Width: =95
+        X: =4
+        Y: =394
+        ZIndex: =7
+
+    TextInput1_8 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: ="4"
+        Fill: =RGBA(255, 208, 66, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        TabIndex: =
+        Width: =95
+        X: =4
+        Y: =443
+        ZIndex: =8
+
+    TextInput1_9 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: ="5"
+        Fill: =RGBA(255, 208, 66, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        TabIndex: =
+        Width: =95
+        X: =4
+        Y: =492
+        ZIndex: =9
+
+    TextInput1_10 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: ="6"
+        Fill: =RGBA(255, 208, 66, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        TabIndex: =
+        Width: =95
+        X: =4
+        Y: =541
+        ZIndex: =10
+
+    TextInput1_11 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: ="7"
+        Fill: =RGBA(255, 208, 66, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        TabIndex: =
+        Width: =95
+        X: =4
+        Y: =590
+        ZIndex: =11
+
+    TextInput1_12 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: ="8"
+        Fill: =RGBA(255, 208, 66, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        TabIndex: =
+        Width: =95
+        X: =4
+        Y: =639
+        ZIndex: =12
+
+    TextInput1_13 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: ="10"
+        Fill: =RGBA(255, 208, 66, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        TabIndex: =
+        Width: =95
+        X: =4
+        Y: =688
+        ZIndex: =13
+
+    TextInput1_2 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: =""
+        Fill: =RGBA(232, 244, 217, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =294
+        TabIndex: =
+        Width: =493
+        X: =868
+        Y: =463
+        ZIndex: =18
+
+    Dropdown1 As dropdown:
+        Default: =
+        Fill: =RGBA(241, 244, 249, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =39
+        Items: |-
+            =[
+                "Dr. Bahri Devrim",
+                "Dr. Gökhan Yener",
+                "Dr. Hande Gül Ersun",
+                "Dr. Mehmet Aziz Saygın",
+                "Dr. Murat Gökduman",
+            ]
+        OnSelect: =
+        PaddingLeft: =5
+        Size: =If (Dropdown1.Selected.Value = "Dr. Bahri Devrim",13,Dropdown1.Selected.Value = "Dr. Gökhan Yener",13,Dropdown1.Selected.Value = "Dr. Hande Gül Ersun",11.5,Dropdown1.Selected.Value = "Dr. Mehmet Aziz Saygın",10,Dropdown1.Selected.Value = "Dr. Murat Gökduman",11)
+        Width: =198
+        X: =107
+        Y: =240
+        ZIndex: =19
+
+    TextInput1_18 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: |-
+            ="SIRA
+             NO"
+        Fill: =RGBA(255, 208, 66, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =49
+        TabIndex: =
+        Width: =224
+        X: =696
+        Y: =342
+        ZIndex: =20
+
+    TextInput1_19 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: |-
+            =Today
+            ()
+        Fill: =RGBA(120, 224, 250, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =49
+        TabIndex: =
+        Width: =116
+        X: =1245
+        Y: =8
+        ZIndex: =21
+
+    TextInput2 As text:
+        Align: =Align.Center
+        Default: =""
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        HintText: ="Sicil No Giriniz..."
+        Width: =284
+        X: =99
+        Y: =296
+        ZIndex: =22
+
+    Button1 As button:
+        Height: =42
+        OnSelect: =Reset(Audio1) & Set(varPlay,false) & Set(varPlay,true)
+        Text: ="ÇAĞIR"
+        Width: =83
+        X: =300
+        Y: =297
+        ZIndex: =23
+
+    Timer1 As timer:
+        AutoStart: =true
+        Duration: =100
+        OnTimerEnd: |-
+            =UpdateContext({varMessageX:If(varMessageX > Screen1.Width,0,varMessageX+10)})
+        Repeat: =true
+        X: =1002
+        Y: =362
+        ZIndex: =24
+
+    Kayanyazı As rectangle:
+        Height: =35
+        Width: =1355
+        X: =4
+        Y: =61
+        ZIndex: =25
+
+    Label1 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =39
+        Size: =20
+        Text: =result
+        Width: =1361
+        X: =varMessageX
+        Y: =57
+        ZIndex: =26
+
+    Image1 As image:
+        BorderThickness: =1
+        Height: =110
+        Image: |-
+            =If (
+                Dropdown1.Selected.Value = "Dr. Bahri Devrim",'Bahri devrim',
+                Dropdown1.Selected.Value = "Dr. Gökhan Yener",'Dr. Gökhan Yener',
+                Dropdown1.Selected.Value = "Dr. Hande Gül Ersun",'Dr. Hande Gül Ersun',
+                Dropdown1.Selected.Value = "Dr. Mehmet Aziz Saygın",'Dr. Mehmet Aziz Saygın',
+                Dropdown1.Selected.Value = "Dr. Murat Gökduman",'Dr. Murat Gökduman'
+                
+               )
+        ImagePosition: =ImagePosition.Stretch
+        Width: =98
+        X: =148
+        Y: =130
+        ZIndex: =27
+
+    TextInput1 As text:
+        Align: =Align.Center
+        Default: =""
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        HintText: ="Sicil No Giriniz..."
+        Width: =284
+        X: =99
+        Y: =345
+        ZIndex: =28
+
+    TextInput3 As text:
+        Align: =Align.Center
+        Default: =""
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        HintText: ="Sicil No Giriniz..."
+        Width: =284
+        X: =99
+        Y: =394
+        ZIndex: =29
+
+    TextInput4 As text:
+        Align: =Align.Center
+        Default: =""
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        HintText: ="Sicil No Giriniz..."
+        Width: =284
+        X: =99
+        Y: =443
+        ZIndex: =30
+
+    TextInput5 As text:
+        Align: =Align.Center
+        Default: =""
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        HintText: ="Sicil No Giriniz..."
+        Width: =284
+        X: =99
+        Y: =492
+        ZIndex: =31
+
+    TextInput6 As text:
+        Align: =Align.Center
+        Default: =""
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        HintText: ="Sicil No Giriniz..."
+        Width: =284
+        X: =99
+        Y: =541
+        ZIndex: =32
+
+    TextInput7 As text:
+        Align: =Align.Center
+        Default: =""
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        HintText: ="Sicil No Giriniz..."
+        Width: =284
+        X: =99
+        Y: =590
+        ZIndex: =33
+
+    TextInput8 As text:
+        Align: =Align.Center
+        Default: =""
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        HintText: ="Sicil No Giriniz..."
+        Width: =284
+        X: =99
+        Y: =639
+        ZIndex: =34
+
+    TextInput9 As text:
+        Align: =Align.Center
+        Default: =""
+        FontWeight: =FontWeight.Bold
+        Height: =45
+        HintText: ="Sicil No Giriniz..."
+        Width: =284
+        X: =99
+        Y: =688
+        ZIndex: =35
+
+    TextInput1_14 As text:
+        Align: =Align.Center
+        Color: =RGBA(246, 88, 16, 1)
+        Default: ="Horse Poliklinik Doktoru"
+        Fill: =RGBA(255, 208, 66, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =190
+        PaddingBottom: =170
+        TabIndex: =
+        Width: =379
+        X: =388
+        Y: =104
+        ZIndex: =36
+
+    Image2 As image:
+        BorderThickness: =1
+        Height: =110
+        Image: ='Dr Tolga'
+        ImagePosition: =ImagePosition.Fill
+        Width: =98
+        X: =533
+        Y: =130
+        ZIndex: =37
+
+    Button1_1 As button:
+        Height: =42
+        OnSelect: =Set(result,TextInput2.Text)
+        Text: ="ÇAĞIR"
+        Width: =83
+        X: =300
+        Y: =346
+        ZIndex: =39
+
+    Button1_2 As button:
+        Height: =42
+        OnSelect: =Set(result,TextInput2.Text)
+        Text: ="ÇAĞIR"
+        Width: =83
+        X: =300
+        Y: =395
+        ZIndex: =40
+
+    Button1_3 As button:
+        Height: =42
+        OnSelect: =Set(result,TextInput2.Text)
+        Text: ="ÇAĞIR"
+        Width: =83
+        X: =300
+        Y: =444
+        ZIndex: =41
+
+    Button1_4 As button:
+        Height: =42
+        OnSelect: =Set(result,TextInput2.Text)
+        Text: ="ÇAĞIR"
+        Width: =83
+        X: =300
+        Y: =493
+        ZIndex: =42
+
+    Button1_5 As button:
+        Height: =42
+        OnSelect: =Set(result,TextInput2.Text)
+        Text: ="ÇAĞIR"
+        Width: =83
+        X: =300
+        Y: =542
+        ZIndex: =43
+
+    Button1_6 As button:
+        Height: =42
+        OnSelect: =Set(result,TextInput2.Text)
+        Text: ="ÇAĞIR"
+        Width: =83
+        X: =300
+        Y: =591
+        ZIndex: =44
+
+    Button1_7 As button:
+        Height: =42
+        OnSelect: =Set(result,TextInput2.Text)
+        Text: ="ÇAĞIR"
+        Width: =83
+        X: =300
+        Y: =640
+        ZIndex: =45
+
+    Button1_8 As button:
+        Height: =42
+        OnSelect: =Set(result,TextInput2.Text)
+        Text: ="ÇAĞIR"
+        Width: =83
+        X: =300
+        Y: =689
+        ZIndex: =46
+
+    TargetLang As dropdown:
+        Height: =43
+        Items: =MicrosoftTranslator.Languages()
+        Width: =168
+        X: =466
+        Y: =418
+        ZIndex: =48
+
+    Audio1 As audioPlayback:
+        Media: ='Alarm-Fast-High-Pitch-A3-Ring-Tone-www.fesliyanstudios.com'
+        Start: =varPlay
+        X: =872
+        Y: =104
+        ZIndex: =49
+
