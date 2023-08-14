@@ -37,8 +37,8 @@
         Height: =49
         TabIndex: =
         Width: =94
-        X: =602
-        Y: =549
+        X: =645
+        Y: =408
         ZIndex: =3
 
     TextInput1_4 As text:
