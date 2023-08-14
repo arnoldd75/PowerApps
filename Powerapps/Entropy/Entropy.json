@@ -51,7 +51,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "08/14/2023 22:18:18",
+  "HeaderLastSavedDateTimeUTC": "08/14/2023 22:28:16",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "277116e1-a7c5-4a87-9603-034742df44f9": "\"/providers/microsoft.powerapps/apis/shared_logicflows/connections/94b10e3e2ad94ce6ab4649737f50f013-255da68f7b9b9769\"",
@@ -68,13 +68,13 @@
     "Dr. Murat Gökduman": "2c6525cc-ad1e-4af6-a750-4b8d4653665c.jpg"
   },
   "LocalResourceRootPaths": {
-    "Alarm-Fast-High-Pitch-A3-Ring-Tone-www.fesliyanstudios.com": "https://docserverpwaprodneu.blob.core.windows.net/1afd3ec3-8a19-4228-93df-ff5142655679-1/resource/Assets0Audio0b6faba1f-fa36-41d7-a12c-e088a5f31375.mp3?sv=2018-03-28&sr=b&sig=k%2FYWL9SFicvGbSORRp%2BxAsiQGYXGVQ5W7UNVEhOExdc%3D&spr=https&se=2023-08-15T18%3A49%3A15Z&sp=r",
-    "Bahri devrim": "https://docserverpwaprodneu.blob.core.windows.net/1afd3ec3-8a19-4228-93df-ff5142655679-1/resource/Assets0Images0fba3d410-8699-4a05-9981-d47c9aa06721.jpg?sv=2018-03-28&sr=b&sig=FQtDfoD9BgC65DTVqaWhJxqeg6k3ri2fsFf07km9VZI%3D&spr=https&se=2023-08-15T18%3A49%3A15Z&sp=r",
-    "Dr Tolga": "https://docserverpwaprodneu.blob.core.windows.net/1afd3ec3-8a19-4228-93df-ff5142655679-1/resource/Assets0Images0b4926f0e-379c-4c42-ae28-98d5b68f1d90.jpg?sv=2018-03-28&sr=b&sig=4k52V%2FV5X0JNmfR6I%2BmTdLqqSg%2FXkGx7XrlBYluRMJQ%3D&spr=https&se=2023-08-15T18%3A49%3A15Z&sp=r",
-    "Dr. Gökhan Yener": "https://docserverpwaprodneu.blob.core.windows.net/1afd3ec3-8a19-4228-93df-ff5142655679-1/resource/Assets0Images0d7984c6c-726c-4648-98c8-b2db29540ab5.jpg?sv=2018-03-28&sr=b&sig=ipk1sWIqGQidZbF7FmG4ulHwK6f1etT1ckSYBxUtpLw%3D&spr=https&se=2023-08-15T18%3A49%3A15Z&sp=r",
-    "Dr. Hande Gül Ersun": "https://docserverpwaprodneu.blob.core.windows.net/1afd3ec3-8a19-4228-93df-ff5142655679-1/resource/Assets0Images030d66d94-96c6-4e59-ba8f-577842f3f3d3.jpg?sv=2018-03-28&sr=b&sig=VoXXEl0K2VSwG2yH2j19ZAKfbP03Swzng009Z7vTgio%3D&spr=https&se=2023-08-15T18%3A49%3A15Z&sp=r",
-    "Dr. Mehmet Aziz Saygın": "https://docserverpwaprodneu.blob.core.windows.net/1afd3ec3-8a19-4228-93df-ff5142655679-1/resource/Assets0Images0328f9b24-ddf4-4e67-a4e2-7e1d70541194.jpg?sv=2018-03-28&sr=b&sig=KTmVIfa6eK%2FZNzF8iwErXu6WzBIAygvDQ29Tqi6g4Os%3D&spr=https&se=2023-08-15T18%3A49%3A15Z&sp=r",
-    "Dr. Murat Gökduman": "https://docserverpwaprodneu.blob.core.windows.net/1afd3ec3-8a19-4228-93df-ff5142655679-1/resource/Assets0Images02c6525cc-ad1e-4af6-a750-4b8d4653665c.jpg?sv=2018-03-28&sr=b&sig=KMWYUJTW1cYsOfnnF%2BCc7UOSKBCbTkUESiNb8DYTmlQ%3D&spr=https&se=2023-08-15T18%3A49%3A15Z&sp=r"
+    "Alarm-Fast-High-Pitch-A3-Ring-Tone-www.fesliyanstudios.com": "https://docserverpwaprodweu.blob.core.windows.net/c8d3d617-e0a2-464b-b7d8-d5f3209d033c-1/resource/Assets0Audio0b6faba1f-fa36-41d7-a12c-e088a5f31375.mp3?sv=2018-03-28&sr=b&sig=QAl%2FvvUHaxAmEebjxtzh9hBH%2BN5upEnCqrKP2G8LpRk%3D&spr=https&se=2023-08-15T22%3A42%3A24Z&sp=r",
+    "Bahri devrim": "https://docserverpwaprodweu.blob.core.windows.net/c8d3d617-e0a2-464b-b7d8-d5f3209d033c-1/resource/Assets0Images0fba3d410-8699-4a05-9981-d47c9aa06721.jpg?sv=2018-03-28&sr=b&sig=g6FP%2FVFmUDuV70WHUiJlBYbRXK0VS1dUsUxubaoO8rs%3D&spr=https&se=2023-08-15T22%3A42%3A24Z&sp=r",
+    "Dr Tolga": "https://docserverpwaprodweu.blob.core.windows.net/c8d3d617-e0a2-464b-b7d8-d5f3209d033c-1/resource/Assets0Images0b4926f0e-379c-4c42-ae28-98d5b68f1d90.jpg?sv=2018-03-28&sr=b&sig=zdVoXZEuVtd%2F%2B76MfKvuqeZQHYY4buFBto9Gdcq0G9g%3D&spr=https&se=2023-08-15T22%3A42%3A24Z&sp=r",
+    "Dr. Gökhan Yener": "https://docserverpwaprodweu.blob.core.windows.net/c8d3d617-e0a2-464b-b7d8-d5f3209d033c-1/resource/Assets0Images0d7984c6c-726c-4648-98c8-b2db29540ab5.jpg?sv=2018-03-28&sr=b&sig=J5hLxS%2BtKaTl%2BDLwOe6ZtETcfM62NMmLhU6IZXwfn%2BE%3D&spr=https&se=2023-08-15T22%3A42%3A24Z&sp=r",
+    "Dr. Hande Gül Ersun": "https://docserverpwaprodweu.blob.core.windows.net/c8d3d617-e0a2-464b-b7d8-d5f3209d033c-1/resource/Assets0Images030d66d94-96c6-4e59-ba8f-577842f3f3d3.jpg?sv=2018-03-28&sr=b&sig=1WyWz2UqUmDJqIp%2BT1TArPuW3KmA6mZkQ27lffMdGcw%3D&spr=https&se=2023-08-15T22%3A42%3A24Z&sp=r",
+    "Dr. Mehmet Aziz Saygın": "https://docserverpwaprodweu.blob.core.windows.net/c8d3d617-e0a2-464b-b7d8-d5f3209d033c-1/resource/Assets0Images0328f9b24-ddf4-4e67-a4e2-7e1d70541194.jpg?sv=2018-03-28&sr=b&sig=%2BRzcuzMQ2u7dtoJtHHQM73RxWeuNZDxCxHiA%2FagzHl8%3D&spr=https&se=2023-08-15T22%3A42%3A24Z&sp=r",
+    "Dr. Murat Gökduman": "https://docserverpwaprodweu.blob.core.windows.net/c8d3d617-e0a2-464b-b7d8-d5f3209d033c-1/resource/Assets0Images02c6525cc-ad1e-4af6-a750-4b8d4653665c.jpg?sv=2018-03-28&sr=b&sig=zK%2Fp%2BcHDEEc76ubjOA7Py8ZTbL977wFmIXIrYJKTBmM%3D&spr=https&se=2023-08-15T22%3A42%3A24Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -207,7 +207,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.2330234,
+    "AnalysisLoadTime": 0.2109417,
     "ControlCount": {
       "audioPlayback": 1,
       "button": 9,
@@ -219,7 +219,7 @@
       "text": 26,
       "timer": 1
     },
-    "DeserializationLoadTime": 0.8990769
+    "DeserializationLoadTime": 1.4182965
   },
   "WasLocalDatabaseReferencesEmpty": false
 }
